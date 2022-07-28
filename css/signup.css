@@ -1,0 +1,44 @@
+.container{
+    margin-left: 27%;
+    width:47%;
+    display: block;
+    border: solid aquamarine;
+    border-radius: 20px;
+    height:70vh;
+}
+.form1{
+   padding-top: 40px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.input{
+    margin-left: 10%;
+    border-radius: 20px;
+    border: none;
+    width: 60%;
+    background-color: aquamarine;
+    height: 5vh;
+    opacity: 0.3;
+
+}
+.input:hover{
+    border-color: #96d0d0;
+}
+.box{
+    margin-left: 7%;
+}
+.box:hover{
+    border-color: aquamarine;
+}
+.bg-img{
+   background: url("../resources/stock2.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+h3{
+    color: #573f3f;
+    font-weight: lighter;
+    font-family: Arial;
+    text-align: center;
+    margin-top:10px;
+}
